@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "mongoDB": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "check-medical-DB",
+    "password": "",
+    "name": "mongoDB",
+    "user": "",
+    "connector": "mongodb"
   }
 }

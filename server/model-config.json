@@ -34,5 +34,17 @@
   },
   "Message": {
     "dataSource": null
+  },
+  "Company": {
+    "dataSource": "mongoDB",
+    "public": true
+  },
+  "Vicore": {
+    "dataSource": "mongoDB",
+    "public": true
+  },
+  "user": {
+    "dataSource": "mongoDB",
+    "public": true
   }
 }
